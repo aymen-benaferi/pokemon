@@ -1,0 +1,8 @@
+{
+    "pokemon": [
+      {"name": "pikachu", "type": "normal", "defense": "15", "attack": "15", "hp": "100"},
+      {"name": "salameche", "type": "fire", "defense": "10", "attack": "20", "hp": "100"},
+      {"name": "carapuce", "type": "water", "defense": "20", "attack": "10", "hp": "100"}
+    ]
+  }
+  
